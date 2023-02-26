@@ -3,7 +3,7 @@
     "@esbuild-plugins/node-globals-polyfill": "^0.1.1",
     "async-mutex": "^0.3.2",
     "bech32": "^2.0.0",
-    "esbuild": "^0.14.11",
+    "esbuild": "^0.17.5",
     "esbuild-plugin-alias": "^0.2.1",
     "eslint": "^8.6.0",
     "eslint-plugin-babel": "^5.3.1",
